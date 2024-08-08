@@ -1,0 +1,38 @@
+MERGER:
+------
+
+take 2 equity EQ-security codes and preapre a holding statement with equal QTY'S for both the securities...
+
+EQ - 010503101 ALREADY QTY HOLDING WITH 90K
+
+EQ - 010503801 NOW CREATING HS with qty 90k because only 1 EQ secuirty code is there in my HS TILL NOW..............................,...NOW BOTH SECURITY QTY'S STANDING AT 90K
+
+CORPORATE ACTION: BF210000466
+-----------------
+Dates and all follow Bonus 1:2 Dates in Manual Steps sheet
+Security:010503101
+EXEC PRICE BASIS: FVALUE
+RATIO ORG:1
+RATIO NEW :1
+SECUIRTY NEW*:010503801
+
+
+RUN intraday/freeze NAV upto Settlement Date
+
+Settlement transaction:
+-----------------------
+
+TS21008307480000010
+
+RUN INTRADAY...
+
+DOWNLOAD THE HOLDING STATEMENT:
+-------------------------------
+
+Secuirity NEW should get doubled (010503801) used as new security in CA and got doubled at last after performing CA 
+
+Before EQ-010503801 90K
+After EQ- 010503801 180K
+
+Here in Holding Statement only new Security will be there old security will be deleted from Holding Statement and need to Create Again for DMERGER Using Direct Placement.
+

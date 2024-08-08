@@ -1,0 +1,29 @@
+SPINOF:
+--------
+
+DIRECT PLACEMENT:
+----------------
+
+TAKE 2 EQ- SECURITIES WITH SAME QTY AND CREATE HOLDING STATEMENTS.
+
+Corporate Action Form: BF210000468
+-----------------------
+EXEC PRICE BASICS: QTY
+
+RATIO ORG:1
+
+RATIO NEW:1
+
+DATES ACCORDING TO BONUS 1:2 Security: 010503101, security new: 010503801
+ 
+RUN INTRADAY/FREEZE NAV UPTO SETTLEMENT DATE
+
+SETTLEMENT TRANSACTION:
+---------------------
+TS21008307480000012
+
+ RUN INTRADAY 
+
+HOLDING STATEMENTS:
+------------------
+Security remains same as 27k new security qty doubles 27k to 54k---- correct verified.

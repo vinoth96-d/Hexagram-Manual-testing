@@ -1,0 +1,26 @@
+CONVERSION:
+----------
+
+TAKE TWO EQ SECURITIES WITH SAME QTY AND CREATE HS
+
+CORPORATE ACTION: BF210000483
+------------------
+
+1:1
+FVALUE 
+100.00000%
+ RATIO ORG: 1 
+RATIO NEW: 1
+bonus1:2 dates we can take     
+
+security:010503101	
+new security: 010503801     
+
+run intraday/freeze NAV upto Settlement Date 17/06/2021
+
+Settlement Transaction: TS21008307480000029
+
+HS:
+----
+NEW SECUIRTY WILL BE ADDED WITH QTY OF SECURITY AND SECURITY WILL BE REMOVED FROM HS
+

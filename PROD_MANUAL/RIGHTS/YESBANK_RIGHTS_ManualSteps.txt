@@ -1,0 +1,108 @@
+Rights: EQ- 010503101, rights Security: 010600651--> (THIS IS RIGHTS Security)
+------
+
+current portfolio Date: 26-02-2021
+
+Download the holding Statement with current portfolio date 18-01-2021. in HS we have Last ran RSPLIT Security 010503101 with QTY 90,000.0000
+
+need to Create Holding Statment for RIGHTS Security also with qty same as Equity security QTY...Suppose EQ-QTY-10K MEANS Need to create Rights qty with 10K only...
+ 
+NOW as per Portfolio date 26-02-2021 in HS my EQ-010503101-qty-90k, and RIGHTS-010600651-QTY-90K
+
+Verify Secuirty Code facevalue in Security screen.
+
+Corporate Action:
+-----------------
+
+Take Dates According to Bonus 1:2 Values...
+BF210000464
+Exec Price Basis: QTY , RATIO ORG AND NEW = 1:1
+run intra day/freeze upto present "Ex_RECORDDate + 1" Present ex_Recorddate= 13-01-2021 + 1 ===> 14-01-2021..... - done
+ 
+NOW MY PORTFOLIO DATE IS 14-01-2021---04-01-2021
+
+Primary Market: 
+-------------
+Asset Class- 01
+Applied Security- right security here 010600651    
+
+transaction date = portfolio date = 20-01-2021---04-01-2021
+settlementDate=Transaction Date+3 = 23-01-2021---07-01-2021
+Exp allot date= Settlement Date +1 = 24-01-2021---08-01-2021
+
+Issue Type = RGTAPP
+Total Quantity = 90k Current QTY as per current Holding Statement for security EQ-010503101
+
+AFTER click on "+" Plus enter deatils only give Portfolio and applied QTY and submit and approve in transactions path like above(DP) from another id
+
+PM21008307460000003 after creating Primary Market Form. (PM2102918320000019)
+
+NOW, NEED TO RUN INTRADAY/FREEZE NAV UPTO Settlement date 23-01-2021 which date can be seen in Primary Market Screen.
+
+Trade Benefit Settlement:
+======================== 
+ 
+TS21008307480000007
+
+12- move intraday/freeze to 1 day ie., to Allotement date seen in Primary market 24-01-2021
+
+Primary Market Allotment: PA21008307460000001
+------------------------
+
+Actually we will give Security here is EQUITY(ORD), BUT it will get reflected as RIGHT SECURITY in yesbank server.
+
+Transaction Date = allotment date in PM(Primary Market) , Security- AUTO REFLECT as RIGHT Security.
+
+RUN INTRADAY
+
+HOLDING STATEMENT:
+------------------
+
+Right Security will be added the QTY which is having in EQ.
+
+BEFORE HS:
+--------
+EQ-90K
+RIGHTS-90K
+
+After performing Rights CA
+
+EQ- 90K Remains same
+
+RIGHTS- 180K that means EQ- QTY ADDED TO RIGHTS QTY.
+
+
+Verify Face value:
+----------------
+face value for both EQ, RIGHTS are same 10.0000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+

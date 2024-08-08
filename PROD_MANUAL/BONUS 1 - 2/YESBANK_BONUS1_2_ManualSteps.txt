@@ -1,0 +1,39 @@
+
+Portfolio date stands at 15-01-2021
+download the holding statement with portfolio date 15-01-2021
+In holding statement with security 010503101 qt as 10k is there 
+
+verify security face value shows as 10.0000
+create Corporate Action:
+------------------------
+
+BF210000457
+
+run intra/freeze NAV upto settlement date 22-01-2021
+
+now, do settlement trasaction:
+-------------------------------
+
+TS21008307480000002
+
+run intraday
+
+download the holding statement:
+--------------------------------
+
+Formula for Bonus 1:2 is - qty*2/1=...?     ....?+org qty
+
+Verification:
+------------
+ Before: 10,000.00                      After: 30,000.00 ------> Verified and done.
+
+Verify Security facevalue: before:10  After :10 ----verified
+
+
+
+
+
+
+
+
+

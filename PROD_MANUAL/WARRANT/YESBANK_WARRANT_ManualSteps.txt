@@ -1,0 +1,80 @@
+Warrent: 
+-------
+Before starting warrent we need to add ratio org, ratio new values as "1" in Security classification
+Security CodeS: EQ- 010503101, QTY HOLDING: 90,000.0000
+               WARRANT: 041908301, NO HOLDING STATMENT AT Present.
+
+Need to create WARRANT DIRECT PLACEMENT AND CREATE HOLDING STATEMENT WITH WARRANT same QTY what EQ-QTY CARRIES.
+
+EQ-QTY-90K
+AFTER CREATING DIRECT PLACEMENT FOR WARRANT SECURITY
+WARRANT-QTY-90K
+
+Verify Security facevalue for both the securities:
+
+EQ- 10.0000 (010503101)
+Warrant- 2.0000 (041908301)
+
+NO CORPORATE ACTION FOR WARRANT MODULE
+pORTFOLIO DATE STANDS AT: 06-01-2021
+
+PRIMARY MARKET: PM21008307460000011., PM21008307460000003
+
+---------------
+Asset Class-04
+
+Applied Security(WARRENT)- 041908301
+    
+TRANSACATION DATE = PORTFOLIO DATE----> 06-01-2021
+Settlement Date- TRANSDATE+3 = 09-03-2021 + 3 ------> 09-01-2021
+
+Exp Allot Date- Settlement date +1= 12-03-2021 + 1 ------> 10-01-2021
+
+issuer=RGTWAR
+
+RGT/WARR SECURITY - 041908301 
+submit Primary market and approve it as Direct placement path
+
+
+RUN intraday upto settlement date -  Primary market settlement date- 09-01-2021
+
+Trade/Benefit Settlement: TS21008307480000035
+Benefit Type: PMPAY
+PORTFOLIO: TESTPORTMYR
+
+ move intraday/freeze to 1 day ie., to Allotement date seen in Primary market ---->10-01-2021
+
+PRIMARY ALLOTMENT: PA21008307460000011, PA21008307460000002
+-----------------
+Primary market Allotment - Transaction Date = allotment date in PM , Security- WARRANT Security AUTOUPDATE WITH DISABLE FILED IN YESBANK.
+
+RUN INTRADAY
+
+DOWNLOAD HOLDING STATEMENTS:
+----------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                							

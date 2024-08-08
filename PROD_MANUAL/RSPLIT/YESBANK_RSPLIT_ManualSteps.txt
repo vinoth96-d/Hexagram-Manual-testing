@@ -1,0 +1,26 @@
+Download Holding Statement with current portfolio date 08-02-2021
+  in holding statement we have securitycode: 010503101 with qty: 90,000.000000 
+
+verify securitycode face value before preforming CA:
+----------------------------------------------------
+
+security code: 010503101, facevalue :10.0000
+
+Perform Corporate Action:
+-------------------------
+BF210000460
+
+Runintraday/freeze NAV upto Settlement Date 18-02-2021
+
+Perform Settlement Transaction:TS21008307480000005
+
+Runintraday
+
+Download the holding statement with portfolio date 18-02-2021
+
+        2:1- qty*1/2	                          Before:90,000     After:45,000-------->Correct
+
+verify facevalue after CA:
+-------------------------
+security code: 010503101, facevalue :10.0000
+
